@@ -1,10 +1,10 @@
-# 翼乘咨询 V3｜图片式移动品牌画册
+# 翼乘咨询 V4｜克制出版物式移动品牌画册
 
 公开网址：https://annelittlebaby.github.io/yicheng-consulting/
 
 ## 本版变化
-- 14 页使用逐页 AI 生成的完整画面，统一翼形品牌与马卡龙通透材质，按内容设置独立构图。
-- 目录、favicon 与 Knocket 使用用户提供的原版 Logo；画面中的翼形是该 Logo 的视觉延展。
+- 14 页采用企业年度报告式视觉系统：暖白纸张、深蓝灰文字、严格网格、纪实摄影与单一钴蓝强调线。
+- 原版翼形 Logo 仅作为小比例品牌署名使用；目录、favicon 与 Knocket 同样使用该原版 Logo。
 - 每页使用 JPG 轻量网页资源，PNG 高分辨率原图在本地交付包中保留。
 - 图片完整显示，无裁切；可上下翻页、左右轻扫、键盘切换和目录导航；支持动态视口、安全区、减少动态偏好。浏览器双指放大可查看细节。
 - 图中文字之外保留语义文案以支持搜索与读屏。
@@ -14,7 +14,7 @@ index.html、style.css、app.js、config.js、knocket-install.js、content.json�
 
 ## Knocket
 已使用你账号中的官方公开安装 identifier，前端不含密码或 AI API 密钥。欢迎页与对话页采用中文、原版 Logo、品牌浅蓝色。
-客服气泡移至翻页栏上方，避免遮挡导航。当前为聊天与留言客服，AI Agent 未启用。访问 https://knocket.trtc.io/ 登录后，在 Inbox 查看和回复；也可使用 Inbox 内显示的官方手机入口。
+客服气泡移至翻页栏上方，避免遮挡导航。AI Agent 已连接 DeepSeek，知识库覆盖服务范围、案例边界、价格与周期、客户适配和人工转接。访问 https://console.trtc.io/knocket-inbox 登录后，可在 Inbox 查看客户留言、接管会话并回复；手机可访问 https://console.trtc.io/knocket-inbox-h5。
 
 网站已发送一条“网站联调测试”消息并在 Inbox 确认收到，该消息不是客户线索。
 
